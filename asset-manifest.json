@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Miportafolio/static/css/main.52fe677d.chunk.css",
+    "main.js": "/Miportafolio/static/js/main.865d98b7.chunk.js",
+    "main.js.map": "/Miportafolio/static/js/main.865d98b7.chunk.js.map",
+    "runtime-main.js": "/Miportafolio/static/js/runtime-main.db70e429.js",
+    "runtime-main.js.map": "/Miportafolio/static/js/runtime-main.db70e429.js.map",
+    "static/css/2.722f9607.chunk.css": "/Miportafolio/static/css/2.722f9607.chunk.css",
+    "static/js/2.19cb0bf5.chunk.js": "/Miportafolio/static/js/2.19cb0bf5.chunk.js",
+    "static/js/2.19cb0bf5.chunk.js.map": "/Miportafolio/static/js/2.19cb0bf5.chunk.js.map",
+    "static/js/3.55b6484e.chunk.js": "/Miportafolio/static/js/3.55b6484e.chunk.js",
+    "static/js/3.55b6484e.chunk.js.map": "/Miportafolio/static/js/3.55b6484e.chunk.js.map",
+    "index.html": "/Miportafolio/index.html",
+    "static/css/2.722f9607.chunk.css.map": "/Miportafolio/static/css/2.722f9607.chunk.css.map",
+    "static/css/main.52fe677d.chunk.css.map": "/Miportafolio/static/css/main.52fe677d.chunk.css.map",
+    "static/js/2.19cb0bf5.chunk.js.LICENSE.txt": "/Miportafolio/static/js/2.19cb0bf5.chunk.js.LICENSE.txt",
+    "static/media/4Ju1tR9uqXY.5d90de72.jpg": "/Miportafolio/static/media/4Ju1tR9uqXY.5d90de72.jpg",
+    "static/media/angular2.7d912b6a.png": "/Miportafolio/static/media/angular2.7d912b6a.png",
+    "static/media/css_blog.dc35cbd0.png": "/Miportafolio/static/media/css_blog.dc35cbd0.png",
+    "static/media/dadJK.a60f0f28.png": "/Miportafolio/static/media/dadJK.a60f0f28.png",
+    "static/media/font-awesome.min.css": "/Miportafolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/html.d69194ef.png": "/Miportafolio/static/media/html.d69194ef.png",
+    "static/media/js.d93cccfc.png": "/Miportafolio/static/media/js.d93cccfc.png",
+    "static/media/logo.6ce24c58.svg": "/Miportafolio/static/media/logo.6ce24c58.svg",
+    "static/media/p1.e1e7a468.jpg": "/Miportafolio/static/media/p1.e1e7a468.jpg",
+    "static/media/p2.b5d71240.jpg": "/Miportafolio/static/media/p2.b5d71240.jpg",
+    "static/media/p4.41c05d1c.jpg": "/Miportafolio/static/media/p4.41c05d1c.jpg",
+    "static/media/p5.61abec36.png": "/Miportafolio/static/media/p5.61abec36.png",
+    "static/media/p6.b7ed472d.png": "/Miportafolio/static/media/p6.b7ed472d.png",
+    "static/media/p7.ac3cc912.png": "/Miportafolio/static/media/p7.ac3cc912.png",
+    "static/media/positronx-banner-1152-1.be4074ea.jpg": "/Miportafolio/static/media/positronx-banner-1152-1.be4074ea.jpg",
+    "static/media/react.a7d3cd12.jpg": "/Miportafolio/static/media/react.a7d3cd12.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db70e429.js",
+    "static/css/2.722f9607.chunk.css",
+    "static/js/2.19cb0bf5.chunk.js",
+    "static/css/main.52fe677d.chunk.css",
+    "static/js/main.865d98b7.chunk.js"
+  ]
+}
